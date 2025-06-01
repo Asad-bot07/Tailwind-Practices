@@ -35,6 +35,12 @@ Tailwind CSS is a modern **utility-first CSS framework** that enables rapid UI d
 
 ## 🛠️ Built With
 
-Tailwind CSS
-HTML5
+-Tailwind CSS
+-HTML5
+
+## 📚 Resources I Used
+
+-Tailwind CSS Documentation
+-Tailwind Play
+-YouTube Tutorials
 
