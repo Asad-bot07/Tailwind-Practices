@@ -7,7 +7,7 @@ Welcome to this mini project showcasing a **simple yet responsive login page** b
 ## 🖼️ Preview
 
 > *(Optional: Add a screenshot or live demo link here, e.g., GitHub Pages, Vercel, or CodeSandbox)*  
-> ![Login Page Screenshot](preview.png) <!-- Replace with actual image file if added -->
+> ![Login Page Screenshot](tailwindcss.mp4) 
 
 ---
 
