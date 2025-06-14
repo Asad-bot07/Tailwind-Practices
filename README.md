@@ -6,8 +6,8 @@ This repository includes two simple yet effective UI practices built using **Tai
 
 ## 📋 Practice List
 
-1. 🔐 [Login Page UI](#-1-Login-page)
-2. 🎮 [Button Animation UI](#-1-button-animation-ui)
+1. 🎮 [Button Animation UI](#-1-button-animation-ui)
+2. 🔐 [Login Page UI](#-2-login-page-ui)
 
 ---
 
@@ -17,7 +17,7 @@ A smooth, interactive interface that showcases **hover effects**, **transitions*
 
 ### 🖼️ Preview
 
-![Button Animation Screenshot](./Screenshot%202025-06-14%20203815.png)
+![Button Animation Screenshot](./Animation%20buttons/Screenshot%202025-06-14%20205147.png)
 
 ### 🚀 Features
 
@@ -26,13 +26,13 @@ A smooth, interactive interface that showcases **hover effects**, **transitions*
 - ⚡ Built entirely with Tailwind via CDN  
 - 📱 Responsive & centered with Flexbox
 
-### 📄 File
+### 📄 File Location
 
-- `button-animation.html`
+- `Animation buttons/index.html`
 
 ### 🔧 How to Use
 
 ```bash
 git clone https://github.com/your-username/tailwind-ui-practice.git
-cd tailwind-ui-practice
-open button-animation.html
+cd tailwind-ui-practice/Animation\ buttons
+open index.html
