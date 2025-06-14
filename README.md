@@ -38,7 +38,7 @@ A minimal and clean **login form card** with **custom inputs, transitions, and r
 
 ### 🖼️ Preview
 
-![login-page](./Animation%20buttons/Screenshot%202025-06-14%20205147.png)
+![login-page](./Assests/tailwind.gif)
 
 ### 🚀 Features
 
