@@ -6,7 +6,7 @@ Welcome to this mini project showcasing a **simple yet responsive login page** b
 
 ## 🖼️ Preview
 
-> ![Login Page Screenshot](tailwind.gif) 
+> ![Login Page Screenshot](../Assests/tailwind.gif) 
 
 ---
 
