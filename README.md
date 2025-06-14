@@ -17,7 +17,7 @@ A smooth, interactive interface that showcases **hover effects**, **transitions*
 
 ### 🖼️ Preview
 
-![Button Animation Screenshot](./Assests/buttons.gif)
+![Button Animation Screenshot](/Assests/buttons.gif)
 
 ### 🚀 Features
 
@@ -38,7 +38,7 @@ A minimal and clean **login form card** with **custom inputs, transitions, and r
 
 ### 🖼️ Preview
 
-![login-page](./Assests/tailwind.gif)
+![login-page](/Assests/tailwind.gif)
 
 ### 🚀 Features
 
