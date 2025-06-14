@@ -17,7 +17,7 @@ A smooth, interactive interface that showcases **hover effects**, **transitions*
 
 ### 🖼️ Preview
 
-![Button Animation Screenshot](./Assests/buttons.gif)
+![Button Animation Screenshot](./Assets/buttons.gif)
 
 ### 🚀 Features
 
