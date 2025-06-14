@@ -2,7 +2,7 @@
 
 This project showcases a smooth and stylish **button animation interface** using **Tailwind CSS via CDN**. It includes hover effects, responsive layout, and clean design — perfect for learning or UI inspiration.
 
-![Preview](./Screenshot%202025-06-14%20203815.png)
+![Preview](../Assets/buttons.gif)
 
 ---
 
