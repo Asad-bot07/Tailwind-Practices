@@ -56,7 +56,7 @@ A minimal and clean **login form card** with **custom inputs, transitions, and r
 ## For Animation button
 
 ```bash
-git clone https://github.com/your-username/tailwind-ui-practice.git
+git clone https://github.com/Asad-bot07/tailwind-ui-practice.git
 cd tailwind-ui-practice/Animation\ buttons
 open index.html
 ```
