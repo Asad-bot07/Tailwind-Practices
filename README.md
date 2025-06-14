@@ -6,7 +6,7 @@ This repository includes two simple yet effective UI practices built using **Tai
 
 ## 📋 Practice List
 
-1. 🔐 [Login Page UI](#-2-login-page-ui)
+1. 🔐 [Login Page UI](#-1-Login-page)
 2. 🎮 [Button Animation UI](#-1-button-animation-ui)
 
 ---
