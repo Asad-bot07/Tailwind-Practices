@@ -30,9 +30,40 @@ A smooth, interactive interface that showcases **hover effects**, **transitions*
 
 - `Animation buttons/index.html`
 
+---
+
+## 🔐 2. Login Page UI
+
+A minimal and clean **login form card** with **custom inputs, transitions, and responsive styling**.
+
+### 🖼️ Preview
+
+![login-page](./Animation%20buttons/Screenshot%202025-06-14%20205147.png)
+
+### 🚀 Features
+
+- 📥 Styled form inputs and buttons  
+- 🔁 Hover effects on button and focus rings
+- 🌙 Blue and white color palette 
+- ⚡ Tailwind CSS via CDN (no build process)
+
+### 📄 File Location
+
+- `Login page/index.html`
+
 ### 🔧 How to Use
+
+##For Animation button
 
 ```bash
 git clone https://github.com/your-username/tailwind-ui-practice.git
 cd tailwind-ui-practice/Animation\ buttons
 open index.html
+```
+
+##For Login Page
+
+```bash
+cd Login\ page
+open index.html
+```
