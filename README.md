@@ -1,46 +1,38 @@
-# 🔐 Simple Login Page using Tailwind CSS
+# 🎯 Tailwind CSS UI Practice Collection
 
-Welcome to this mini project showcasing a **simple yet responsive login page** built using **Tailwind CSS**. This repository marks the beginning of my journey with Tailwind CSS, and it's my first project using this utility-first framework.
-
----
-
-## 🖼️ Preview
-
-> ![Login Page Screenshot](tailwind.gif) 
+This repository includes two simple yet effective UI practices built using **Tailwind CSS via CDN**. These mini-projects helped me understand layout, transitions, responsiveness, and form design using utility-first CSS.
 
 ---
 
-## 🧠 Why Tailwind CSS?
+## 📋 Practice List
 
-Tailwind CSS is a modern **utility-first CSS framework** that enables rapid UI development with minimal custom CSS. Here’s why I chose Tailwind over traditional CSS for this project:
-
-### ✅ Tailwind CSS vs Traditional CSS
-
-- **Faster development** – apply styles directly in HTML using utility classes  
-- **Built-in responsiveness** – easily build mobile-friendly layouts  
-- **No class naming hassles** – skip the headache of BEM or custom names  
-- **Consistent design** – reuse utility classes across the project  
-- **Customizable** – theme and extend styles using `tailwind.config.js`  
-- **Optimized output** – unused styles can be purged to reduce file size  
+1. 🔐 [Login Page UI](#-2-login-page-ui)
+2. 🎮 [Button Animation UI](#-1-button-animation-ui)
 
 ---
 
-## 🚀 Getting Started
+## 🎮 1. Button Animation UI
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Asad-bot07/login-page-tailwind.git
-   cd login-page-tailwind
+A smooth, interactive interface that showcases **hover effects**, **transitions**, and **Flexbox layout** — all styled with Tailwind CSS.
 
-## 🛠️ Built With
+### 🖼️ Preview
 
-- [Tailwind CSS](https://tailwindcss.com/)
-- HTML5
----
+![Button Animation Screenshot](./Screenshot%202025-06-14%20203815.png)
 
-## 📚 Resources I Used
+### 🚀 Features
 
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Tailwind Play](https://play.tailwindcss.com/)
-- [YouTube Tutorials](https://www.youtube.com/results?search_query=tailwind+css+login+page)
+- 💡 Hover-based scale and color transitions  
+- 🎨 Purple-themed UI with clean layout  
+- ⚡ Built entirely with Tailwind via CDN  
+- 📱 Responsive & centered with Flexbox
 
+### 📄 File
+
+- `button-animation.html`
+
+### 🔧 How to Use
+
+```bash
+git clone https://github.com/your-username/tailwind-ui-practice.git
+cd tailwind-ui-practice
+open button-animation.html
