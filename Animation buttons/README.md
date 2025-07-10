@@ -19,7 +19,7 @@ This project showcases a smooth and stylish **button animation interface** using
 ## 🚀 Technologies Used
 
 - **HTML5**
-- **Tailwind CSS** (via [CDN](https://cdn.tailwindcss.com))
+- **Tailwind CSS**
 
 ---
 
